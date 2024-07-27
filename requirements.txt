@@ -1,0 +1,8 @@
+streamlit
+torch
+diffusers
+pillow
+numpy
+matplotlib
+transformers
+torchvision
